@@ -2,7 +2,7 @@ Just a basic reddit CLI tool.
 
 # INSTALL
 
-	curl -o- https://github.com/harshh2002/reddit-cli/blob/main/install.sh | bash
+	curl -o- https://raw.githubusercontent.com/harshh2002/reddit-cli/main/install.sh | bash
 
 # USAGE
 
