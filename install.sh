@@ -4,5 +4,3 @@
 	cd ./reddit-cli
   	npm i
   	sudo npm i --location=global
-  	cd ..
- 	rm -rf reddit-cli
