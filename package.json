@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fetch": "^1.1.0",
     "node-fetch": "^3.2.9",
     "open": "^8.4.0",
     "yargs": "^17.5.1"
