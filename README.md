@@ -2,7 +2,7 @@ Just a basic reddit CLI tool.
 
 # Image use
 
-	docker run sleepi02/reddit-cli reddit
+	docker run sleepi02/reddit-cli reddit -p
 
 # INSTALL
 
