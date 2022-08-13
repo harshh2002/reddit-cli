@@ -12,6 +12,3 @@ Just a basic reddit CLI tool.
 
 	--print, -p = print on terminal
 	no flags = open browser
-
-
-<sub> Open source LICENSED </sub>
